@@ -32,5 +32,13 @@ label {
 
         ul.product-props li{
 
-            list-styletype: none;
+            list-style-type: none;
         }
+
+
+.product-info{
+    border: 1px solid grey;
+    display: inline-block;
+
+
+}

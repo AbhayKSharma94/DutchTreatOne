@@ -55,3 +55,6 @@ product-info img{
     border: 1px solid #000000;
     max-width: 150px;
 }
+#loginToggle{
+    cursor: pointer;
+}

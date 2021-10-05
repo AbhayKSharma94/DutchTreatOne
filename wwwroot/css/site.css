@@ -17,6 +17,15 @@ label {
     font-size: 16px;
 }
 
-div {
-    background-color: #808080
+#theForm {
+    background-color: #808080;
 }
+
+    #theForm input[type=submit]{
+         background-color:#0a3810;
+         Color:#ffffff;
+}
+
+    .product-props {
+        font-size: small;
+    }

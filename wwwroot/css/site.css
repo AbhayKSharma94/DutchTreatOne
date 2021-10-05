@@ -39,6 +39,19 @@ label {
 .product-info{
     border: 1px solid grey;
     display: inline-block;
+    padding: 8px 2px;
+    margin: 2px;
+    width: 450px;
+    background-color:lightgray;
+    border-radius:5px;
 
 
+}
+
+product-info img{
+
+    margin: 3px;
+    float: left;
+    border: 1px solid #000000;
+    max-width: 150px;
 }

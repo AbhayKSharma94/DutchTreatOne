@@ -1,5 +1,3 @@
-﻿var  = 0;
-var s = "";
+﻿var theForm = document.getElementById("theForm");
+theForm.hidden = true;
 
-
-alert("Hello Pluralsight");
